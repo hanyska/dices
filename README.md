@@ -7,4 +7,4 @@ You can roll the dice(s) by pressing the button. You can add and remove dices.
 
 ## Screenshots
 
-![alt text](https://github.com/hanyska/dices/blob/master/assets/screenshots/game.gif?raw=true)
+<img src="https://github.com/hanyska/dices/blob/master/assets/screenshots/game.gif" alt="Show project possibilities"  width=300/>
